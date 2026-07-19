@@ -21,4 +21,4 @@ Phishing attacks are a major cybersecurity threat. This project uses a LinearSVC
 ## **How to Run Locally**
 1.  Clone the repository
     ```bash
-    git clone <https://github.com/Anugjna/AI-Powered-Phishing-Email-Detection/>
+    git clone https://github.com/Anugjna/AI-Powered-Phishing-Email-Detection/
